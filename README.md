@@ -46,7 +46,7 @@ Volte sempre!
 
 ## _Screenshot_
 
-![Tela do Programa](screenshot.png)
+![Tela do Programa](Screenshot.png)
 
 ## _Download_
 
